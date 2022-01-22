@@ -1,0 +1,33 @@
+/****************************TAG SELECTORS****************************/
+
+body {
+  background-color: #C0D8C0;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 8%;
+}
+
+h1 {
+  color: #DD4A48;
+}
+
+h3 {
+  color: #DD4A48;
+}
+
+img:hover {
+  background-color: white;
+}
+
+/****************************CLASS SELECTORS****************************/
+
+.profile {
+  height: 200px;
+}
+
+/****************************ID SELECTORS****************************/
+/*use a # to select an id, ids are unique for each element tag unlike with classes*/
